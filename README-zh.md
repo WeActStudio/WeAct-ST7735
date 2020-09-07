@@ -16,7 +16,7 @@
 
 > `Micropython 代码`
 
-!["WeAct ST7735"](./images/WeAct-ST7735.png)
+!["WeAct ST7735"](./Images/WeAct-ST7735.png)
 
 想了解我们工作室其他产品，请访问[WeAct-Studio-Product](https://gitee.com/WeActTC/WeAct-ST7735.git)
 
