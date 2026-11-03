@@ -18,7 +18,7 @@
 
 !["WeAct ST7735"](./Images/WeAct-ST7735.png)
 
-To learn more about our studio's other products, please visit[WeAct-Studio-Product](https://github.com/WeActTC/WeAct-ST7735.git)
+To learn more about our studio's other products, please visit[WeAct-Studio-Product](https://github.com/WeActStudio/WeAct-ST7735.git)
 
 ## Pin Set describe
 

@@ -24,8 +24,8 @@ C语言开发图片代码生成步骤
 
 STM32F103C8T6 C 语言HAL库开发使用代码 [F103-ST7735](https://gitee.com/WeActTC/BluePill-Plus/tree/master/SDK/STM32F103C8T6/HAL/F103_ST7735)
 
-STM32F401CEU6 C 语言HAL库开发使用代码 [F401-ST7735](https://github.com/WeActTC/MiniF4-STM32F4x1/tree/master/SDK/STM32F401CEU6/HAL/06-F401_ST7735)
+STM32F401CEU6 C 语言HAL库开发使用代码 [F401-ST7735](https://github.com/WeActStudio/MiniF4-STM32F4x1/tree/master/SDK/STM32F401CEU6/HAL/06-F401_ST7735)
 
-STM32F411CEU6 C 语言HAL库开发使用代码 [F411-ST7735](https://github.com/WeActTC/MiniF4-STM32F4x1/tree/master/SDK/STM32F411CEU6/HAL/F411_ST7735)
+STM32F411CEU6 C 语言HAL库开发使用代码 [F411-ST7735](https://github.com/WeActStudio/MiniF4-STM32F4x1/tree/master/SDK/STM32F411CEU6/HAL/F411_ST7735)
 
-Micropython 开发使用代码 [micropython-ST7735](https://github.com/WeActTC/MiniF4-STM32F4x1/tree/master/SDK/MicroPython_Example/ST7735)
+Micropython 开发使用代码 [micropython-ST7735](https://github.com/WeActStudio/MiniF4-STM32F4x1/tree/master/SDK/MicroPython_Example/ST7735)

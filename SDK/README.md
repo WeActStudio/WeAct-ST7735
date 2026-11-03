@@ -20,8 +20,8 @@ C language development picture code generation steps
 
 STM32F103C8T6 C HAL library development use code [F103-ST7735](https://gitee.com/WeActTC/BluePill-Plus/tree/master/SDK/STM32F103C8T6/HAL/F103_ST7735)
 
-STM32F401CEU6 C HAL library development use code [F401-ST7735](https://github.com/WeActTC/MiniF4-STM32F4x1/tree/master/SDK/STM32F401CEU6/HAL/06-F401_ST7735)
+STM32F401CEU6 C HAL library development use code [F401-ST7735](https://github.com/WeActStudio/MiniF4-STM32F4x1/tree/master/SDK/STM32F401CEU6/HAL/06-F401_ST7735)
 
-STM32F411CEU6 C HAL library development use code [F411-ST7735](https://github.com/WeActTC/MiniF4-STM32F4x1/tree/master/SDK/STM32F411CEU6/HAL/F411_ST7735)
+STM32F411CEU6 C HAL library development use code [F411-ST7735](https://github.com/WeActStudio/MiniF4-STM32F4x1/tree/master/SDK/STM32F411CEU6/HAL/F411_ST7735)
 
-Micropython development use code [micropython-ST7735](https://github.com/WeActTC/MiniF4-STM32F4x1/tree/master/SDK/MicroPython_Example/ST7735)
+Micropython development use code [micropython-ST7735](https://github.com/WeActStudio/MiniF4-STM32F4x1/tree/master/SDK/MicroPython_Example/ST7735)
